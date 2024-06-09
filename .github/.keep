@@ -62,10 +62,17 @@ Software Maintenance:
 Define software maintenance and explain the different types of maintenance activities. Why is maintenance an essential part of the software lifecycle? 
  Maintenance refers to the frequent modification of a software after it has been delivered with the aim of keeping it updated and updated and improving performance.
 Types: 
+Corrective maintenance-Fixing bugs found after deployment of the software
+Adaptive maintenance- Modifying the software to work in a changed or new environment
+Preventive maintenance-Masking changes to the software to prevent potential issues in the future
+Perfective maintenance-Enhance existing functionalities or add new features to the software 
+Aims:
+Prongls software life
+Adapts the software to changes in user needs and environment over time
+Improves the performanceand reliability of the software
 
 Ethical Considerations in Software Engineering:
 What are some ethical issues that software engineers might face? How can software engineers ensure they adhere to ethical standards in their work?
 
- Submission Guidelines: Your answers should be well-structured, concise, and to the point. Provide real-world examples or case studies wherever possible. Cite any references or sources you use in your answers. Submit your completed assignment by [due date].
+Submission Guidelines: Your answers should be well-structured, concise, and to the point. Provide real-world examples or case studies wherever possible. Cite any references or sources you use in your answers. Submit your completed assignment by [due date].
 
- 
