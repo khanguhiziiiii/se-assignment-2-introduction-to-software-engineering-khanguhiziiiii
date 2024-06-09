@@ -1,0 +1,71 @@
+Assignment: Introduction to Software Engineering Instructions: Answer the following questions based on your understanding of software engineering concepts. Provide detailed explanations and examples where appropriate.
+
+Questions: Define Software Engineering: 
+What is software engineering, and how does it differ from traditional programming? 
+Software engineering is the discipline that deals with design, development, testing and maintenance of software.
+
+Software Development Life Cycle (SDLC):
+Explain the various phases of the Software Development Life Cycle. Provide a brief description of each phase. 
+1. Requirement Gathering and analysis- This stage involves conducting interviews and surveys with stakeholders in order to understand the needs of the business and document the requirements of the software.
+2. System design-This stage involvescrafting of data flow diagrams and ERDs which serve as a roadmap for the team during coding phase.
+3. Coding-This stage involves converting  the software design to executable code.
+4. Testing-This stage involves thorough testing of the code to identify defects and debugging them.
+5.  Deployment-This stage ensures a software is available for use in a live environment.
+6. Maintenance- This stage involves frequent software updates and fixing bugs in order to keep up with the software's changing needs.
+
+
+Agile vs. Waterfall Models:
+Compare and contrast the Agile and Waterfall models of software development. What are the key differences, and in what scenarios might each be preferred?
+Agile Models are flexible and adaptive as changes are welcomed at any stage while Waterfal models are rigid and structured since requirements are defined at the begining and expected to remain the same.
+Waterfall models require a detailed documentation for each phase before moving to the next while in Agile models documentation is created as needed.
+Agile models are developed in iterative cycles while Waterfall models follow a stict sequential order where each phase must be completed before the next
+
+ Requirements Engineering:
+What is requirements engineering? Describe the process and its importance in the software development lifecycle. 
+A phase that involves identifying, documenting and managing the needs and expectations of stakeholders for a software system.
+The stakeholders are interviewed by the team and surveys are also conducted. After collecting data then team analyses it in order to understand the business needs. The team documents the requirements and ensures they accurately reflect those of the user's needs.
+Importance: 
+Acts as a blueprint for the projects.
+Facilitate communication between the stakeholders and the team. 
+
+Software Design Principles:
+Explain the concept of modularity in software design. How does it improve maintainability and scalability of software systems?
+Modularity is a design principle that involves dividing a software system into distinct saelf contained units called modules.
+
+ Testing in Software Engineering:
+Describe the different levels of software testing (unit testing, integration testing, system testing, acceptance testing). Why is testing crucial in software development?
+Unit testing- Testing individual components of the modules of a software application in isolation to ensure they work as intended.
+Intergration testing-Testing the interaction between intergrated modules to detect interface defects and ensure they work together correctly.
+System testing- Testing the complete intergrated system to verify that it meets the specified requirements.
+Acceptance testing- Testing conducted to determine whether the system meets the business requirements and is ready for deployment.
+Importance:
+Prevents from propagating to later stages of development.
+Verifies that the software behaves as expected under various conditions
+Identifies vulnerability and protects the system from potential attacks.
+
+ Version Control Systems:
+What are version control systems, and why are they important in software development? Give examples of popular version control systems and their features.
+These are tools used to manage changes to source code and other files over time.
+Importance:
+Keeps a history of every change made to the code, including who made the change and why.
+The repository serves as a backup of the project.
+
+Software Project Management:
+Discuss the role of a software project manager. What are some key responsibilities and challenges faced in managing software projects? 
+A software project is responsible for planning executing and closing software projects.
+Key responsibilities:
+Lead and motivate  the project team, assign tasks based on members' skills and project requirements.
+Anticipate potential risks that could impact the project.
+Maintain regular communication with stakeholders.
+
+Software Maintenance:
+Define software maintenance and explain the different types of maintenance activities. Why is maintenance an essential part of the software lifecycle? 
+ Maintenance refers to the frequent modification of a software after it has been delivered with the aim of keeping it updated and updated and improving performance.
+Types: 
+
+Ethical Considerations in Software Engineering:
+What are some ethical issues that software engineers might face? How can software engineers ensure they adhere to ethical standards in their work?
+
+ Submission Guidelines: Your answers should be well-structured, concise, and to the point. Provide real-world examples or case studies wherever possible. Cite any references or sources you use in your answers. Submit your completed assignment by [due date].
+
+ 
